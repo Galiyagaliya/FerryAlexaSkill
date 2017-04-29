@@ -1,0 +1,13 @@
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/FerryTest.dll
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/FerryTest.dll.mdb
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/Ferry.exe
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/NLog.dll
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/nunit.framework.dll
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/Newtonsoft.Json.dll
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/Ferry.exe.mdb
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/NLog.xml
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/nunit.framework.xml
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/bin/Debug/Newtonsoft.Json.xml
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/obj/Debug/FerryTest.csprojResolveAssemblyReference.cache
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/obj/Debug/FerryTest.dll
+/Users/galiyashakenova/RiderProjects/Ferry/FerryTest/obj/Debug/FerryTest.dll.mdb

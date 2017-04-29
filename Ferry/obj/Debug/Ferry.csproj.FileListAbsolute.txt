@@ -1,0 +1,9 @@
+/Users/galiyashakenova/RiderProjects/Ferry/Ferry/obj/Debug/Ferry.csprojResolveAssemblyReference.cache
+/Users/galiyashakenova/RiderProjects/Ferry/Ferry/bin/Debug/Ferry.exe
+/Users/galiyashakenova/RiderProjects/Ferry/Ferry/bin/Debug/Ferry.exe.mdb
+/Users/galiyashakenova/RiderProjects/Ferry/Ferry/bin/Debug/Newtonsoft.Json.dll
+/Users/galiyashakenova/RiderProjects/Ferry/Ferry/bin/Debug/NLog.dll
+/Users/galiyashakenova/RiderProjects/Ferry/Ferry/bin/Debug/Newtonsoft.Json.xml
+/Users/galiyashakenova/RiderProjects/Ferry/Ferry/bin/Debug/NLog.xml
+/Users/galiyashakenova/RiderProjects/Ferry/Ferry/obj/Debug/Ferry.exe
+/Users/galiyashakenova/RiderProjects/Ferry/Ferry/obj/Debug/Ferry.exe.mdb
